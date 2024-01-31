@@ -1,0 +1,3 @@
+Item: , Price: 18000, Quantity: 2
+Item: , Price: 18000, Quantity: 2
+Item:   LIPTON , Price: 1800, Quantity: 2
